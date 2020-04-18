@@ -1,6 +1,6 @@
 {
   "name": "replacer-webpack-plugin",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Perform replacements (plain and regular expression) in the assets emitted.",
   "main": "index.js",
   "typings": "index.d.ts",
