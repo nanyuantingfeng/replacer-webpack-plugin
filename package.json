@@ -1,0 +1,33 @@
+{
+  "name": "replacer-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Perform replacements (plain and regular expression) in the assets emitted.",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "publish2npm": "npm publish ."
+  },
+  "keywords": [
+    "webpack",
+    "replace",
+    "replacer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanyuantingfeng/replacer-webpack-plugin.git"
+  },
+  "author": "nanyuantingfeng<nanyuantingfeng@aliyun.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanyuantingfeng/replacer-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/nanyuantingfeng/replacer-webpack-plugin#readme",
+  "peerDependencies": {
+    "webpack-sources": "*",
+    "webpack": "^4"
+  },
+  "devDependencies": {
+    "@types/webpack": "^4.41.11",
+    "@types/webpack-sources": "^0.1.7"
+  }
+}
